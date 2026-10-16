@@ -26,9 +26,9 @@ _Technical Lead & Lead Developer_
 <!-- ✏️  OMER — EDIT BELOW THIS LINE. Replace the ____ parts only.        -->
 <!-- ==================================================================== -->
 
-- [ ] **1. Set up GitHub for the team** — due 2026-10-23
-  - Status: ____
-  - Done on: ____
+- [x] **1. Set up GitHub for the team** — due 2026-10-23
+  - Status: Done
+  - Done on: 16/11/2026
   - _Done when: Every member has pushed one commit through a reviewed PR._
 
 - [ ] **2. Run two code walkthrough sessions** — due 2026-11-06
