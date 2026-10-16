@@ -1,97 +1,326 @@
 # AstonBundle — Team Progress
 
-DG4AGA Group 2 · shared task tracker and work log. Plan: [Team_Roles_and_Task_Allocation.pdf](Team_Roles_and_Task_Allocation.pdf)
+DG4AGA Group 2 · task tracker and work log · plan: [Team_Roles_and_Task_Allocation.pdf](Team_Roles_and_Task_Allocation.pdf)
 
-## How to update
+**Go to your section:** [Omer](#omer) · [Bhargav](#bhargav) · [Charulata](#charulata) · [Pavankumar](#pavankumar) · [Rita](#rita) · [Work log](#work-log)
 
-1. Open this file on GitHub and click the **pencil** (Edit this file).
-2. Find **your** task. Change **Status** to `To do`, `In progress` or `Done`.
-3. When it is done, write the date in **Done on** (`YYYY-MM-DD`) and paste a link in **Evidence** (commit, pull request, issue or document).
-4. If a due date changes, edit **Due** and say why in the log below.
-5. Add a line to the **Work log** at the bottom for what you did today.
-6. Click **Commit changes** with a short message, e.g. `Bhargav: Planner board done`.
+## How to update (2 minutes)
 
-> Only update your own rows and log lines. Every edit is saved under your GitHub account, so this file is part of our contribution evidence.
+1. Click the **pencil icon ✏️** at the top right of this file.
+2. Scroll to the box that says **✏️ YOUR NAME — EDIT BELOW** (press `Ctrl+F` / `Cmd+F` and type your first name).
+3. For the task you worked on, replace the `____` parts:
+   - `Status:` write **In progress** or **Done**
+   - `Done on:` write the date, e.g. **2026-10-20**
+   - `Evidence:` paste a link (Planner task, document, pull request or issue)
+   - when it is done, change `- [ ]` to `- [x]` (an x between the brackets)
+4. Add one line to the **Work log** at the bottom.
+5. Click the green **Commit changes…** button, then **Commit changes** again.
 
-## Summary
+Only change your own section and your own log lines. Every edit is saved under your GitHub name, so this file also shows who did what.
 
-| Member | Role | Tasks | Done |
-|---|---|---|---|
-| Omer Tarik Yilmaz | Technical Lead & Lead Developer | 8 | 0 / 8 |
-| Bhargav Reddy Bommidi | Project Manager & Process Lead | 8 | 0 / 8 |
-| Charulata Sharma | UX, Design & Accessibility Lead | 8 | 0 / 8 |
-| Pavankumar Samana | QA & Test Lead | 8 | 0 / 8 |
-| Rita Zambito | Requirements, Research & Responsible Practice Lead | 8 | 0 / 8 |
+<a id="omer"></a>
 
-_Update your Done count when you finish a task._
+## Omer Tarik Yilmaz
+_Technical Lead & Lead Developer_
 
-## Omer Tarik Yilmaz — Technical Lead & Lead Developer
+<!-- ==================================================================== -->
+<!-- ✏️  OMER — EDIT BELOW THIS LINE. Replace the ____ parts only.        -->
+<!-- ==================================================================== -->
 
-| # | Task | Due | Status | Done on | Evidence |
-|---|---|---|---|---|---|
-| 1 | **Set up GitHub for the team** — Every member has pushed one commit through a reviewed PR. | 2026-10-23 | To do | | |
-| 2 | **Run two code walkthrough sessions** — Each member can explain their demo area without notes. | 2026-11-06 | To do | | |
-| 3 | **Fix and evaluate the demand forecast** — Model ≥ baseline across seeds, or the limitation is reported honestly. | 2026-11-06 | To do | | |
-| 4 | **Database backup and uptime check** — A restore has been tested once. | 2026-11-06 | To do | | |
-| 5 | **Fix reported bugs and accessibility issues** — No open high-priority issues at CP5. | 2026-11-20 | To do | | |
-| 6 | **Security review** — Findings recorded and addressed. | 2026-11-20 | To do | | |
-| 7 | **AI-use statement — technical part** — Rita has merged it into the portfolio. | 2026-12-04 | To do | | |
-| 8 | **Release v1.0.0** — Tag, live site and ZIP are the same version. | 2026-12-10 | To do | | |
+- [ ] **1. Set up GitHub for the team** — due 2026-10-23
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Every member has pushed one commit through a reviewed PR._
 
-## Bhargav Reddy Bommidi — Project Manager & Process Lead
+- [ ] **2. Run two code walkthrough sessions** — due 2026-11-06
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Each member can explain their demo area without notes._
 
-| # | Task | Due | Status | Done on | Evidence |
-|---|---|---|---|---|---|
-| 1 | **Build the Planner board** — All 40 tasks visible with owner and date. | 2026-10-23 | To do | | |
-| 2 | **Finalise the Team Charter** — Signed by all five members. | 2026-10-23 | To do | | |
-| 3 | **Weekly meetings and minutes** — One set of minutes per week. | 2026-10-23 | To do | | |
-| 4 | **Checkpoint records 1–5** — Each record completed within 2 days of the checkpoint. | 2026-10-23 | To do | | |
-| 5 | **Risk Register and Decision Log** — Updated at CP3, CP4 and CP5. | 2026-11-06 | To do | | |
-| 6 | **Add CONTRIBUTING.md to the repository** — Merged after review. | 2026-11-06 | To do | | |
-| 7 | **Maintain the Contribution Matrix** — Agreed by all five members. | 2026-11-20 | To do | | |
-| 8 | **Final submission check (with Pavankumar)** — Co-signed off with Pavankumar. | 2026-12-10 | To do | | |
+- [ ] **3. Fix and evaluate the demand forecast** — due 2026-11-06
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Model ≥ baseline across seeds, or the limitation is reported honestly._
 
-## Charulata Sharma — UX, Design & Accessibility Lead
+- [ ] **4. Database backup and uptime check** — due 2026-11-06
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: A restore has been tested once._
 
-| # | Task | Due | Status | Done on | Evidence |
-|---|---|---|---|---|---|
-| 1 | **Write the design rationale** — Reviewed by Rita. | 2026-10-23 | To do | | |
-| 2 | **Accessibility audit** — Every failure has an issue with steps. | 2026-11-06 | To do | | |
-| 3 | **Responsive check** — No horizontal scrolling on any page. | 2026-11-06 | To do | | |
-| 4 | **Re-test fixes** — All accessibility issues closed or explained. | 2026-11-20 | To do | | |
-| 5 | **Update the accessibility statement** — Merged; statement matches the audit. | 2026-11-20 | To do | | |
-| 6 | **Add team roles to the About page** — Live on the site. | 2026-11-20 | To do | | |
-| 7 | **Usability walkthrough (team only)** — Top findings turned into issues. | 2026-11-20 | To do | | |
-| 8 | **Presentation slides** — Ready one week before the presentation. | 2026-12-04 | To do | | |
+- [ ] **5. Fix reported bugs and accessibility issues** — due 2026-11-20
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: No open high-priority issues at CP5._
 
-## Pavankumar Samana — QA & Test Lead
+- [ ] **6. Security review** — due 2026-11-20
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Findings recorded and addressed._
 
-| # | Task | Due | Status | Done on | Evidence |
-|---|---|---|---|---|---|
-| 1 | **Write the test plan** — Reviewed by Ömer. | 2026-10-23 | To do | | |
-| 2 | **Manual test script on the live site** — Repeated at CP4 and CP5. | 2026-11-06 | To do | | |
-| 3 | **End-to-end run** — 89/89 checks pass or failures have issues. | 2026-11-06 | To do | | |
-| 4 | **Exploratory and cross-browser testing** — At least 10 exploratory sessions logged. | 2026-11-20 | To do | | |
-| 5 | **Write new automated tests** — Merged and passing in CI. | 2026-11-20 | To do | | |
-| 6 | **Verify fixes and regression** — No regressions at CP5. | 2026-11-20 | To do | | |
-| 7 | **Keep the test evidence current** — Numbers match the latest run. | 2026-12-04 | To do | | |
-| 8 | **Final regression and package quality check (with Bhargav)** — Release and package approved. | 2026-12-10 | To do | | |
+- [ ] **7. AI-use statement — technical part** — due 2026-12-04
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Rita has merged it into the portfolio._
 
-## Rita Zambito — Requirements, Research & Responsible Practice Lead
+- [ ] **8. Release v1.0.0** — due 2026-12-10
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Tag, live site and ZIP are the same version._
 
-| # | Task | Due | Status | Done on | Evidence |
-|---|---|---|---|---|---|
-| 1 | **Stakeholder analysis and personas** — Reviewed by Charulata. | 2026-10-23 | To do | | |
-| 2 | **Success criteria and requirements** — Agreed at CP2. | 2026-10-23 | To do | | |
-| 3 | **Traceability matrix** — Every brief requirement has a test or evidence. | 2026-11-06 | To do | | |
-| 4 | **Responsible-practice evaluation** — Reviewed by Bhargav. | 2026-11-20 | To do | | |
-| 5 | **Privacy notice and terms** — Merged and live. | 2026-11-20 | To do | | |
-| 6 | **Reference list** — No uncited claims. | 2026-12-04 | To do | | |
-| 7 | **Portfolio editor** — Full draft one week before submission. | 2026-12-04 | To do | | |
-| 8 | **Export the portfolio PDF** — Checked by Bhargav and Pavankumar. | 2026-12-10 | To do | | |
+<!-- ✏️  END OF OMER'S SECTION — do not edit below for Omer. -->
+
+<a id="bhargav"></a>
+
+## Bhargav Reddy Bommidi
+_Project Manager & Process Lead_
+
+<!-- ==================================================================== -->
+<!-- ✏️  BHARGAV — EDIT BELOW THIS LINE. Replace the ____ parts only.        -->
+<!-- ==================================================================== -->
+
+- [ ] **1. Build the Planner board** — due 2026-10-23
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: All 40 tasks visible with owner and date._
+
+- [ ] **2. Finalise the Team Charter** — due 2026-10-23
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Signed by all five members._
+
+- [ ] **3. Weekly meetings and minutes** — due 2026-10-23
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: One set of minutes per week._
+
+- [ ] **4. Checkpoint records 1–5** — due 2026-10-23
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Each record completed within 2 days of the checkpoint._
+
+- [ ] **5. Risk Register and Decision Log** — due 2026-11-06
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Updated at CP3, CP4 and CP5._
+
+- [ ] **6. Add CONTRIBUTING.md to the repository** — due 2026-11-06
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Merged after review._
+
+- [ ] **7. Maintain the Contribution Matrix** — due 2026-11-20
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Agreed by all five members._
+
+- [ ] **8. Final submission check (with Pavankumar)** — due 2026-12-10
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Co-signed off with Pavankumar._
+
+<!-- ✏️  END OF BHARGAV'S SECTION — do not edit below for Bhargav. -->
+
+<a id="charulata"></a>
+
+## Charulata Sharma
+_UX, Design & Accessibility Lead_
+
+<!-- ==================================================================== -->
+<!-- ✏️  CHARULATA — EDIT BELOW THIS LINE. Replace the ____ parts only.        -->
+<!-- ==================================================================== -->
+
+- [ ] **1. Write the design rationale** — due 2026-10-23
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Reviewed by Rita._
+
+- [ ] **2. Accessibility audit** — due 2026-11-06
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Every failure has an issue with steps._
+
+- [ ] **3. Responsive check** — due 2026-11-06
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: No horizontal scrolling on any page._
+
+- [ ] **4. Re-test fixes** — due 2026-11-20
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: All accessibility issues closed or explained._
+
+- [ ] **5. Update the accessibility statement** — due 2026-11-20
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Merged; statement matches the audit._
+
+- [ ] **6. Add team roles to the About page** — due 2026-11-20
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Live on the site._
+
+- [ ] **7. Usability walkthrough (team only)** — due 2026-11-20
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Top findings turned into issues._
+
+- [ ] **8. Presentation slides** — due 2026-12-04
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Ready one week before the presentation._
+
+<!-- ✏️  END OF CHARULATA'S SECTION — do not edit below for Charulata. -->
+
+<a id="pavankumar"></a>
+
+## Pavankumar Samana
+_QA & Test Lead_
+
+<!-- ==================================================================== -->
+<!-- ✏️  PAVANKUMAR — EDIT BELOW THIS LINE. Replace the ____ parts only.        -->
+<!-- ==================================================================== -->
+
+- [ ] **1. Write the test plan** — due 2026-10-23
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Reviewed by Ömer._
+
+- [ ] **2. Manual test script on the live site** — due 2026-11-06
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Repeated at CP4 and CP5._
+
+- [ ] **3. End-to-end run** — due 2026-11-06
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: 89/89 checks pass or failures have issues._
+
+- [ ] **4. Exploratory and cross-browser testing** — due 2026-11-20
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: At least 10 exploratory sessions logged._
+
+- [ ] **5. Write new automated tests** — due 2026-11-20
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Merged and passing in CI._
+
+- [ ] **6. Verify fixes and regression** — due 2026-11-20
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: No regressions at CP5._
+
+- [ ] **7. Keep the test evidence current** — due 2026-12-04
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Numbers match the latest run._
+
+- [ ] **8. Final regression and package quality check (with Bhargav)** — due 2026-12-10
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Release and package approved._
+
+<!-- ✏️  END OF PAVANKUMAR'S SECTION — do not edit below for Pavankumar. -->
+
+<a id="rita"></a>
+
+## Rita Zambito
+_Requirements, Research & Responsible Practice Lead_
+
+<!-- ==================================================================== -->
+<!-- ✏️  RITA — EDIT BELOW THIS LINE. Replace the ____ parts only.        -->
+<!-- ==================================================================== -->
+
+- [ ] **1. Stakeholder analysis and personas** — due 2026-10-23
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Reviewed by Charulata._
+
+- [ ] **2. Success criteria and requirements** — due 2026-10-23
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Agreed at CP2._
+
+- [ ] **3. Traceability matrix** — due 2026-11-06
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Every brief requirement has a test or evidence._
+
+- [ ] **4. Responsible-practice evaluation** — due 2026-11-20
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Reviewed by Bhargav._
+
+- [ ] **5. Privacy notice and terms** — due 2026-11-20
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Merged and live._
+
+- [ ] **6. Reference list** — due 2026-12-04
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: No uncited claims._
+
+- [ ] **7. Portfolio editor** — due 2026-12-04
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Full draft one week before submission._
+
+- [ ] **8. Export the portfolio PDF** — due 2026-12-10
+  - Status: ____
+  - Done on: ____
+  - Evidence: ____
+  - _Done when: Checked by Bhargav and Pavankumar._
+
+<!-- ✏️  END OF RITA'S SECTION — do not edit below for Rita. -->
+
+<a id="work-log"></a>
 
 ## Work log
 
-Newest first. One line per piece of work: `YYYY-MM-DD · Name · what you did · link`
+<!-- ==================================================================== -->
+<!-- ✏️  EVERYONE — ADD YOUR LINE DIRECTLY UNDER THIS BOX (newest first).  -->
+<!-- Copy this pattern:                                                   -->
+<!-- - 2026-10-20 · Your Name · what you did · link                        -->
+<!-- ==================================================================== -->
 
-- 2026-10-16 · Omer Tarik Yilmaz · Shared the task allocation plan and this tracker with the team · [plan](Team_Roles_and_Task_Allocation.pdf)
+- 2026-10-16 · Omer Tarik Yilmaz · Shared the task allocation plan and this tracker · [plan](Team_Roles_and_Task_Allocation.pdf)
