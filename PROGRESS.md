@@ -129,7 +129,7 @@ _UX, Design & Accessibility Lead_
 <!-- ==================================================================== -->
 
 - [ ] **1. Write the design rationale** — due 2026-10-23
-  - Status: ____
+  - Status: Done
   - Done on: ____
   - _Done when: Reviewed by Rita._
 
