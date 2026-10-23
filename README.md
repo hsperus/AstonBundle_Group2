@@ -1,3 +1,3 @@
 We are in a learning phase. 
 
-im learningf aswell
+im learning aswell
